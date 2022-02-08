@@ -9,3 +9,9 @@ Belajar Membuat Aplikasi Android untuk Pemula. (Progres 20%)
 Belajar Membuat Aplikasi Android untuk Pemula. (Progres 50%)
  * Activity
  * Intent
+
+**13 Desember 2021**  
+Belajar Membuat Aplikasi Android untuk Pemula. Progres 100%)
+  * Views dan ViewGroup
+  * Style dan Theme
+  * Mengerjakan ujian akhir untuk menilai kemahiran diri.
